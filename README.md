@@ -28,8 +28,10 @@
 
 Hey, I'm Marlon 👋
 
-I build **web apps, Discord systems, and small tools** that are actually used.
-I prefer simple, fast, and clean solutions over over-engineered ones.
+I build **web apps, Discord systems, and small applications** that are meant to be used in real life — not just sit around as unfinished ideas.
+
+I like keeping things **simple, fast, and clean**, instead of overcomplicating everything.
+Most of what I build focuses on usability, performance, and actually solving a problem.
 
 Based in Switzerland 🇨🇭
 
@@ -41,10 +43,30 @@ Based in Switzerland 🇨🇭
 
 <div align="center">
 
-**Web** → sites, dashboards, frontends
-**Discord** → bots, systems, automation
-**Apps** → tools, small products, ideas
-**Backend** → APIs, logic, databases
+**Web Development**
+Modern websites, dashboards, and user interfaces
+
+**Discord Development**
+Bots, automation systems, integrations
+
+**App Development**
+Small tools, utilities, and product ideas
+
+**Backend Development**
+APIs, databases, and system logic
+
+</div>
+
+---
+
+## ▌ How I Work
+
+<div align="center">
+
+• I build things to **ship**, not just to test
+• I prefer **clean and minimal solutions**
+• I focus on **real usability instead of hype**
+• I like turning ideas into **working products fast**
 
 </div>
 
@@ -64,14 +86,17 @@ Based in Switzerland 🇨🇭
 
 <div align="center">
 
-| 🚀                   |                           |
-| -------------------- | ------------------------- |
-| **Project One**      | modern web platform       |
-| **Project Two**      | Discord bot / automation  |
-| **Project Three**    | AI tool                   |
-| **Project Four**     | web app / dashboard       |
-| **Project Five**     | custom solution           |
-| **❓ Coming soon...** | something new in progress |
+| 🚀                |                  |
+| ----------------- | ---------------- |
+| **Project One**   | ❓ Coming soon... |
+| **Project Two**   | ❓ Coming soon... |
+| **Project Three** | ❓ Coming soon... |
+| **Project Four**  | ❓ Coming soon... |
+| **Project Five**  | ❓ Coming soon... |
+
+<br/>
+
+<sub style="color:#22C55E;">currently building new things behind the scenes</sub>
 
 </div>
 
