@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Web+%2F+Discord+%2F+App+Developer;AI+%26+SaaS+Builder;Based+in+Switzerland" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Building+cool+stuff;Web+%2F+Discord+%2F+Apps;Based+in+Switzerland" />
 
 <br/><br/>
 
@@ -22,32 +22,41 @@
 
 ---
 
-## ▌ About Me
+## ▌ about me
 
 <div align="center">
 
-**EN**
-Full-stack developer from Switzerland 🇨🇭 building modern **web applications**, **Discord systems**, and **apps**.
-Focused on real products, clean UI and scalable architecture.
+hey, i'm marlon 👋
 
-**DE**
-Full-Stack Entwickler aus der Schweiz 🇨🇭 mit Fokus auf **Webseiten**, **Discord Bots/Systeme** und **Apps**.
-Ich entwickle moderne, performante und produktionsreife Lösungen.
+i build **web apps, discord stuff and small tools** that actually get used.
+not really into overcomplicated things — i like stuff that’s fast, clean and just works.
+
+**deutsch:**
+ich entwickle **webseiten, discord bots und apps**, die wirklich genutzt werden.
+kein unnötiger schnickschnack – einfach schnell, sauber und funktional.
+
+🇨🇭 based in switzerland
 
 </div>
 
 ---
 
-## ▌ Skills
+## ▌ what I do
 
 <div align="center">
 
-**Web Development** · Frontend & Backend · Modern UI
-**Discord Development** · Bots · Automation · APIs
-**App Development** · Tools · Systems · Cross-platform
-**AI & SaaS** · LLM Apps · Automation · Platforms
+**web** → sites, dashboards, frontends
+**discord** → bots, systems, automation
+**apps** → tools, small products, ideas
+**backend** → apis, logic, databases
 
-<br/>
+</div>
+
+---
+
+## ▌ tech
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,postgres,docker&theme=dark" />
 
@@ -55,34 +64,24 @@ Ich entwickle moderne, performante und produktionsreife Lösungen.
 
 ---
 
-## ▌ What I Build
+## ▌ projects
 
 <div align="center">
 
-SaaS Platforms · AI Tools · APIs · Frontends · Automations
+| 🚀                   |                          |
+| -------------------- | ------------------------ |
+| **project one**      | something cool           |
+| **project two**      | discord / automation     |
+| **project three**    | ai / tool                |
+| **project four**     | web app                  |
+| **project five**     | custom build             |
+| **❓ coming soon...** | working on something new |
 
 </div>
 
 ---
 
-## ▌ Projects
-
-<div align="center">
-
-| Project              | Description                     |
-| -------------------- | ------------------------------- |
-| 🟢 **Project One**   | Modern SaaS / Web Platform      |
-| 🟢 **Project Two**   | Discord Bot / Automation System |
-| 🟢 **Project Three** | AI Tool / Smart Application     |
-| 🟢 **Project Four**  | Web App / Dashboard             |
-| 🟢 **Project Five**  | Custom Software Solution        |
-| ❓ **Coming Soon...** | New project in development      |
-
-</div>
-
----
-
-## ▌ Stats
+## ▌ stats
 
 <div align="center">
 
@@ -94,17 +93,7 @@ SaaS Platforms · AI Tools · APIs · Frontends · Automations
 
 ---
 
-## ▌ Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=playmode33&bg_color=000000&color=22C55E&line=16a34a&point=22C55E&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## ▌ Contact
+## ▌ contact
 
 <div align="center">
 
@@ -115,12 +104,12 @@ SaaS Platforms · AI Tools · APIs · Frontends · Automations
 <br/><br/>
 
 <a href="mailto:management@marlon-studios.com">
-  <img src="https://img.shields.io/badge/management@marlon--studios.com-22C55E?style=for-the-badge&logo=gmail&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/email-22C55E?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
 <br/><br/>
 
-<sub style="color:#22C55E;">built in switzerland · designed to ship</sub>
+<sub style="color:#22C55E;">just building stuff i like</sub>
 
 </div>
 
