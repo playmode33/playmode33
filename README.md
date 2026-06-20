@@ -8,7 +8,7 @@
 
 ---
 
-## <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><circle cx="12" cy="7" r="4"/><path d="M5.5 21a6.5 6.5 0 0 1 13 0"/></svg> About Me
+## <img src="assets/icons/user.svg" width="18"/> About Me
 
 - Full-Stack Developer from Switzerland  
 - Focus on Web Apps, AI & SaaS  
@@ -17,7 +17,7 @@
 
 ---
 
-## <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> What I Do
+## <img src="assets/icons/code.svg" width="18"/> What I Do
 
 - Web Applications (Frontend + Backend)  
 - API Development & Automation  
@@ -26,7 +26,7 @@
 
 ---
 
-## <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg> Tech Stack
+## <img src="assets/icons/layout-dashboard.svg" width="18"/> Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-14532D?style=flat&logo=java&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-## <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg> GitHub Stats
+## <img src="assets/icons/bar-chart.svg" width="18"/> GitHub Stats
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-## <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><path d="M12 2C8 2 6 5 6 8c0 5 6 12 6 12s6-7 6-12c0-3-2-6-6-6z"/></svg> Decoration
+## <img src="assets/icons/leaf.svg" width="18"/> Decoration
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/plant.gif" width="120"/>
@@ -54,7 +54,7 @@
 
 ---
 
-## <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><path d="M4 4h16v16H4z"/><polyline points="22,6 12,13 2,6"/></svg> Contact
+## <img src="assets/icons/mail.svg" width="18"/> Contact
 
 - Website: https://marlon-studios.com  
 - Email: management@marlon-studios.com  
