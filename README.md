@@ -2,4 +2,4 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=playmode33&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playmode33&layout=donut&theme=tokyonight)
+![snake](https://raw.githubusercontent.com/DEINNAME/DEINNAME/output/github-contribution-grid-snake.svg)
