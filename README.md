@@ -8,16 +8,25 @@
 
 ---
 
-## About Me
+## <img src="assets/icons/user.svg" width="18"/> About Me
 
 - Full-Stack Developer from Switzerland  
 - Focus on Web Apps, AI & SaaS  
 - Clean UI / UX & performance-driven  
-- Building projects under marlon-studios.com  
+- Building under marlon-studios.com  
 
 ---
 
-## Tech Stack
+## <img src="assets/icons/code.svg" width="18"/> What I Do
+
+- Web Applications (Frontend + Backend)  
+- API Development & Automation  
+- AI Tools & Smart Systems  
+- Modern UI Design  
+
+---
+
+## <img src="assets/icons/stack.svg" width="18"/> Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-14532D?style=for-the-badge&logo=java&logoColor=white)
@@ -25,18 +34,9 @@
 ![Python](https://img.shields.io/badge/Python-15803D?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-166534?style=for-the-badge&logo=php&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-22C55E?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-14532D?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-16A34A?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express-14532D?style=for-the-badge&logo=express&logoColor=white)
-
 ---
 
-## GitHub Stats
+## <img src="assets/icons/chart.svg" width="18"/> GitHub Stats
 
 <div align="center">
 
@@ -48,25 +48,15 @@
 
 ---
 
-## Activity
+## <img src="assets/icons/plant.svg" width="18"/> Decoration
 
 <div align="center">
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DEINNAME&theme=github-compact&color=22C55E&hide_border=true)
-
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/plant.gif" width="120"/>
 </div>
 
 ---
 
-## Decoration
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/plant.gif" width="130"/>
-</div>
-
----
-
-## Contact
+## <img src="assets/icons/mail.svg" width="18"/> Contact
 
 - Website: https://marlon-studios.com  
 - Email: management@marlon-studios.com  
@@ -74,7 +64,5 @@
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,100:22C55E&height=120&section=footer"/>
-
 </div>
