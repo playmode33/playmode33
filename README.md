@@ -9,7 +9,7 @@
 <br/>
 
 <sub style="color:#22C55E; font-size:16px;">
-Web Developer · App Developer · Discord Developer
+⚡ Web Developer · 📱 App Developer · 🤖 Discord Developer
 </sub>
 
 <br/><br/>
@@ -22,20 +22,33 @@ Web Developer · App Developer · Discord Developer
 
 ---
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
+
+---
+
 ## ▌ About
 
 <div align="center">
 
 Hey, I'm Marlon 👋
 
-I build **web apps, Discord systems, and small applications** that are actually used.
-My focus is on **clean design, performance, and simplicity**.
+I build **web apps, Discord systems, and small applications** that are designed to actually be used.
+I focus on **clean design, strong performance, and simple solutions** that scale.
 
-I like turning ideas into real products and improving them over time.
+Instead of overengineering, I prefer building things that are
+→ fast
+→ usable
+→ maintainable
 
-Based in Switzerland 🇨🇭
+🇨🇭 Based in Switzerland
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
 
 ---
 
@@ -43,19 +56,23 @@ Based in Switzerland 🇨🇭
 
 <div align="center">
 
-**Web Development**
-Modern websites, dashboards, and user interfaces
+🌐 **Web Development**
+Modern interfaces, dashboards, and responsive websites
 
-**App Development**
-Tools, utilities, and product ideas
+📱 **App Development**
+Tools, utilities, and product-focused applications
 
-**Discord Development**
-Bots, automation, and integrations
+🤖 **Discord Development**
+Bots, automation systems, and integrations
 
-**Backend Development**
-APIs, databases, and system logic
+🧠 **Backend Development**
+APIs, databases, and system architecture
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
 
 ---
 
@@ -63,16 +80,20 @@ APIs, databases, and system logic
 
 <div align="center">
 
-• Build → ship → improve
-• Keep things simple and maintainable
-• Focus on real use cases
-• Iterate fast
+⚡ Build → Ship → Improve
+🧩 Keep things simple and scalable
+🎯 Focus on real-world use cases
+🚀 Turn ideas into working products fast
 
 </div>
 
 ---
 
-## ▌ Tech
+<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
+
+---
+
+## ▌ Tech Stack
 
 <div align="center">
 
@@ -80,9 +101,15 @@ APIs, databases, and system logic
 
 <br/><br/>
 
-Modern JavaScript/TypeScript stacks combined with backend systems and automation tools.
+<sub style="color:#22C55E;">
+JavaScript / TypeScript · Python · Modern Frontend · Backend Systems · Automation
+</sub>
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
 
 ---
 
@@ -90,7 +117,7 @@ Modern JavaScript/TypeScript stacks combined with backend systems and automation
 
 <div align="center">
 
-| 🚀                |                  |
+| 🚀 Project        | Status           |
 | ----------------- | ---------------- |
 | **Project One**   | ❓ Coming soon... |
 | **Project Two**   | ❓ Coming soon... |
@@ -100,13 +127,19 @@ Modern JavaScript/TypeScript stacks combined with backend systems and automation
 
 <br/>
 
-<sub style="color:#22C55E;">currently building new things behind the scenes</sub>
+<sub style="color:#22C55E;">
+currently building multiple projects behind the scenes
+</sub>
 
 </div>
 
 ---
 
-## ▌ GitHub
+<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
+
+---
+
+## ▌ GitHub Activity
 
 <div align="center">
 
@@ -122,6 +155,10 @@ Modern JavaScript/TypeScript stacks combined with backend systems and automation
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
+
+---
+
 ## ▌ Contact
 
 <div align="center">
@@ -131,7 +168,9 @@ Website: marlon-studios.com
 
 <br/>
 
-<sub style="color:#22C55E;">open for projects and collaborations</sub>
+<sub style="color:#22C55E;">
+open for projects · collaborations · ideas
+</sub>
 
 </div>
 
