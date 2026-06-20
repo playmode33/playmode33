@@ -9,106 +9,67 @@
 <br/><br/>
 
 <a href="https://marlon-studios.com">
-  <img src="https://img.shields.io/badge/Visit%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=22C55E"/>
+  <img src="https://img.shields.io/badge/Website-22C55E?style=for-the-badge&logo=vercel&logoColor=000000"/>
 </a>
 
  
 
 <a href="mailto:management@marlon-studios.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-16a34a?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=22C55E"/>
+  <img src="https://img.shields.io/badge/Contact-16a34a?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/Web%20·%20AI%20·%20SaaS-000000?style=flat-square&color=22C55E"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Available_for_Projects-000000?style=flat-square&color=22C55E"/>
+---
+
+## ▌ About
+
+<div align="center">
+
+Full-stack developer focused on building **real SaaS products** and **AI-powered systems**.
+Clean architecture, high performance and strong UX are always the priority.
 
 </div>
 
 ---
 
-<br/>
+## ▌ Tech Stack
 
 <div align="center">
 
-### ▌ WHOAMI
-
-</div>
-
-<div align="center">
-
-```bash
-> full-stack developer
-> building scalable SaaS & AI systems
-> obsessed with performance, clean UI & real products
-> no templates — everything built to ship
-```
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,postgres,docker&theme=dark" />
 
 </div>
 
 ---
 
-<div align="center">
-
-### ▌ TECH STACK
-
-</div>
+## ▌ What I Build
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,postgres,docker&theme=dark" />
+**SaaS Platforms** · Multi-tenant apps, dashboards, billing
+**AI Systems** · LLM apps, RAG pipelines, automation
+**APIs** · Scalable backend services
+**Frontend** · Fast, responsive interfaces
+**Automation** · Workflows & integrations
 
 </div>
 
 ---
 
+## ▌ Specialties
+
 <div align="center">
 
-### ▌ SYSTEMS I BUILD
+**AI Integration** · LLM APIs · RAG · Prompt Engineering
+**SaaS Architecture** · Auth · Subscriptions · Admin systems
+**Performance** · Fast UI · Core Web Vitals · Clean UX
 
 </div>
-
-```bash
-├─ SaaS Platforms       → multi-tenant · billing · dashboards
-├─ AI Systems           → LLM · RAG · automation
-├─ APIs                 → scalable backend services
-├─ Frontend             → fast · minimal · reactive
-└─ Automation           → workflows · pipelines
-```
 
 ---
 
-<div align="center">
-
-### ▌ SPECIALTIES
-
-</div>
-
-```yaml
-AI:
-  - LLM APIs
-  - RAG pipelines
-  - prompt engineering
-
-SaaS:
-  - multi-tenancy
-  - auth systems
-  - subscriptions
-
-Performance:
-  - Core Web Vitals
-  - fast UI
-  - accessibility
-```
-
----
-
-<div align="center">
-
-### ▌ STATS
-
-</div>
+## ▌ Stats
 
 <div align="center">
 
@@ -116,19 +77,11 @@ Performance:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playmode33&layout=compact&hide_border=true&bg_color=000000&title_color=22C55E&text_color=9ca3af"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=playmode33&hide_border=true&background=000000&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=6b7280&dates=374151"/>
-
 </div>
 
 ---
 
-<div align="center">
-
-### ▌ ACTIVITY
-
-</div>
+## ▌ Activity
 
 <div align="center">
 
@@ -138,27 +91,19 @@ Performance:
 
 ---
 
-<div align="center">
-
-### ▌ CONTACT
-
-</div>
+## ▌ Contact
 
 <div align="center">
 
 <a href="https://marlon-studios.com">
-  <img src="https://img.shields.io/badge/marlon--studios.com-22C55E?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/marlon--studios.com-000000?style=for-the-badge&logo=vercel&logoColor=22C55E"/>
 </a>
 
 <br/><br/>
 
 <a href="mailto:management@marlon-studios.com">
-  <img src="https://img.shields.io/badge/management@marlon--studios.com-000000?style=for-the-badge&logo=gmail&logoColor=22C55E&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/management@marlon--studios.com-22C55E?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open_for_Collaboration-22C55E?style=flat-square&logoColor=000000"/>
 
 <br/><br/>
 
