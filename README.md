@@ -4,12 +4,18 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Building+things+that+work;Web+%2F+Discord+%2F+Apps;playmode33" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Building+things+that+work;playmode33" />
+
+<br/>
+
+<sub style="color:#22C55E; font-size:16px;">
+Web Developer · App Developer · Discord Developer
+</sub>
 
 <br/><br/>
 
 <a href="https://marlon-studios.com">
-  <img src="https://img.shields.io/badge/Website-22C55E?style=for-the-badge&logo=vercel&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Visit%20Website-22C55E?style=for-the-badge&logoColor=000000"/>
 </a>
 
 </div>
@@ -36,8 +42,8 @@ Based in Switzerland 🇨🇭
 <div align="center">
 
 Web → interfaces, dashboards, websites
-Discord → bots, automation, integrations
 Apps → tools, utilities, small products
+Discord → bots, automation, integrations
 Backend → APIs, databases, logic
 
 </div>
@@ -95,7 +101,6 @@ Backend → APIs, databases, logic
 <div align="center">
 
 Email: [management@marlon-studios.com](mailto:management@marlon-studios.com)
-
 Website: marlon-studios.com
 
 </div>
