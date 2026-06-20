@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="assets/icons/user.svg" width="18"/> About Me
+## <img src="https://raw.githubusercontent.com/playmode33/playmode33/main/assets/icons/user.svg" width="18"/> About Me
 
 - Full-Stack Developer from Switzerland  
 - Focus on Web Apps, AI & SaaS  
@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="assets/icons/code.svg" width="18"/> What I Do
+## <img src="https://raw.githubusercontent.com/playmode33/playmode33/main/assets/icons/code.svg" width="18"/> What I Do
 
 - Web Applications (Frontend + Backend)  
 - API Development & Automation  
@@ -26,7 +26,7 @@
 
 ---
 
-## <img src="assets/icons/layout-dashboard.svg" width="18"/> Tech Stack
+## <img src="https://raw.githubusercontent.com/playmode33/playmode33/main/assets/icons/layout-dashboard.svg" width="18"/> Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-14532D?style=flat&logo=java&logoColor=white)
@@ -36,17 +36,19 @@
 
 ---
 
-## <img src="assets/icons/bar-chart.svg" width="18"/> GitHub Stats
+## <img src="https://raw.githubusercontent.com/playmode33/playmode33/main/assets/icons/bar-chart.svg" width="18"/> GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DEINNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=playmode33&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=playmode33&layout=donut&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## <img src="assets/icons/leaf.svg" width="18"/> Decoration
+## <img src="https://raw.githubusercontent.com/playmode33/playmode33/main/assets/icons/leaf.svg" width="18"/> Decoration
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/plant.gif" width="120"/>
@@ -54,7 +56,7 @@
 
 ---
 
-## <img src="assets/icons/mail.svg" width="18"/> Contact
+## <img src="https://raw.githubusercontent.com/playmode33/playmode33/main/assets/icons/mail.svg" width="18"/> Contact
 
 - Website: https://marlon-studios.com  
 - Email: management@marlon-studios.com  
