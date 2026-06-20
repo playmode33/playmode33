@@ -22,33 +22,20 @@
 
 ---
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
-
----
-
 ## ▌ About
 
 <div align="center">
 
 Hey, I'm Marlon 👋
 
-I build **web apps, Discord systems, and small applications** that are designed to actually be used.
-I focus on **clean design, strong performance, and simple solutions** that scale.
+I build **web apps, Discord systems, and small applications** that are actually used.
+My focus is on **clean design, performance, and simplicity**.
 
-Instead of overengineering, I prefer building things that are
-→ fast
-→ usable
-→ maintainable
+I like creating things that are fast, usable, and easy to maintain.
 
 🇨🇭 Based in Switzerland
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
 
 ---
 
@@ -57,22 +44,18 @@ Instead of overengineering, I prefer building things that are
 <div align="center">
 
 🌐 **Web Development**
-Modern interfaces, dashboards, and responsive websites
+Modern interfaces, dashboards, and websites
 
 📱 **App Development**
-Tools, utilities, and product-focused applications
+Tools, utilities, and product ideas
 
 🤖 **Discord Development**
-Bots, automation systems, and integrations
+Bots, automation, and integrations
 
 🧠 **Backend Development**
-APIs, databases, and system architecture
+APIs, databases, and logic
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
 
 ---
 
@@ -81,35 +64,21 @@ APIs, databases, and system architecture
 <div align="center">
 
 ⚡ Build → Ship → Improve
-🧩 Keep things simple and scalable
-🎯 Focus on real-world use cases
-🚀 Turn ideas into working products fast
+🧩 Keep things simple
+🎯 Focus on real use cases
+🚀 Move fast and iterate
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
-
----
-
-## ▌ Tech Stack
+## ▌ Tech
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,postgres,docker&theme=dark" />
 
-<br/><br/>
-
-<sub style="color:#22C55E;">
-JavaScript / TypeScript · Python · Modern Frontend · Backend Systems · Automation
-</sub>
-
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
 
 ---
 
@@ -128,18 +97,14 @@ JavaScript / TypeScript · Python · Modern Frontend · Backend Systems · Autom
 <br/>
 
 <sub style="color:#22C55E;">
-currently building multiple projects behind the scenes
+currently building new things behind the scenes
 </sub>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
-
----
-
-## ▌ GitHub Activity
+## ▌ GitHub
 
 <div align="center">
 
@@ -155,22 +120,21 @@ currently building multiple projects behind the scenes
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=022c22&height=2"/>
-
----
-
 ## ▌ Contact
 
 <div align="center">
 
 Email: [management@marlon-studios.com](mailto:management@marlon-studios.com)
-Website: marlon-studios.com
 
-<br/>
+</div>
 
-<sub style="color:#22C55E;">
-open for projects · collaborations · ideas
-</sub>
+---
+
+<div align="center">
+
+<a href="https://marlon-studios.com">
+  <img src="https://img.shields.io/badge/Visit%20Website-166534?style=for-the-badge&logoColor=ffffff"/>
+</a>
 
 </div>
 
