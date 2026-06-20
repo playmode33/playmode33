@@ -9,7 +9,7 @@
 <br/>
 
 <sub style="color:#22C55E; font-size:16px;">
-⚡ Web Developer · 📱 App Developer · 🤖 Discord Developer
+Web Developer · App Developer · Discord Developer
 </sub>
 
 <br/><br/>
@@ -28,10 +28,11 @@
 
 Hey, I'm Marlon 👋
 
-I build **web apps, Discord systems, and small applications** that are actually used.
-My focus is on **clean design, performance, and simplicity**.
+I like building **web apps, Discord stuff, and small tools** that people actually use.
+Nothing too overcomplicated — just clean, fast, and working.
 
-I like creating things that are fast, usable, and easy to maintain.
+Most of the time I'm either improving something I've already built
+or starting a new idea and seeing where it goes.
 
 🇨🇭 Based in Switzerland
 
@@ -43,30 +44,26 @@ I like creating things that are fast, usable, and easy to maintain.
 
 <div align="center">
 
-🌐 **Web Development**
-Modern interfaces, dashboards, and websites
-
-📱 **App Development**
-Tools, utilities, and product ideas
-
-🤖 **Discord Development**
-Bots, automation, and integrations
-
-🧠 **Backend Development**
-APIs, databases, and logic
+🌐 Web → websites, dashboards, frontends
+📱 Apps → small tools and ideas
+🤖 Discord → bots, automation
+🧠 Backend → APIs, databases
 
 </div>
 
 ---
 
-## ▌ How I Work
+## ▌ Weekly Coding
 
 <div align="center">
 
-⚡ Build → Ship → Improve
-🧩 Keep things simple
-🎯 Focus on real use cases
-🚀 Move fast and iterate
+<img src="https://img.shields.io/badge/Coding%20this%20week-23h+-166534?style=for-the-badge&labelColor=020617"/>
+
+<br/><br/>
+
+<sub style="color:#22C55E;">
+usually somewhere between 20–30 hours per week
+</sub>
 
 </div>
 
@@ -97,7 +94,7 @@ APIs, databases, and logic
 <br/>
 
 <sub style="color:#22C55E;">
-currently building new things behind the scenes
+working on a few things behind the scenes
 </sub>
 
 </div>
