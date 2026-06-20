@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Building+cool+stuff;Web+%2F+Discord+%2F+Apps;Based+in+Switzerland" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Building+things+that+work;Web+%2F+Discord+%2F+Apps;Based+in+Switzerland" />
 
 <br/><br/>
 
@@ -22,39 +22,35 @@
 
 ---
 
-## ▌ about me
+## ▌ About
 
 <div align="center">
 
-hey, i'm marlon 👋
+Hey, I'm Marlon 👋
 
-i build **web apps, discord stuff and small tools** that actually get used.
-not really into overcomplicated things — i like stuff that’s fast, clean and just works.
+I build **web apps, Discord systems, and small tools** that are actually used.
+I prefer simple, fast, and clean solutions over over-engineered ones.
 
-**deutsch:**
-ich entwickle **webseiten, discord bots und apps**, die wirklich genutzt werden.
-kein unnötiger schnickschnack – einfach schnell, sauber und funktional.
-
-🇨🇭 based in switzerland
+Based in Switzerland 🇨🇭
 
 </div>
 
 ---
 
-## ▌ what I do
+## ▌ What I Do
 
 <div align="center">
 
-**web** → sites, dashboards, frontends
-**discord** → bots, systems, automation
-**apps** → tools, small products, ideas
-**backend** → apis, logic, databases
+**Web** → sites, dashboards, frontends
+**Discord** → bots, systems, automation
+**Apps** → tools, small products, ideas
+**Backend** → APIs, logic, databases
 
 </div>
 
 ---
 
-## ▌ tech
+## ▌ Tech
 
 <div align="center">
 
@@ -64,24 +60,24 @@ kein unnötiger schnickschnack – einfach schnell, sauber und funktional.
 
 ---
 
-## ▌ projects
+## ▌ Projects
 
 <div align="center">
 
-| 🚀                   |                          |
-| -------------------- | ------------------------ |
-| **project one**      | something cool           |
-| **project two**      | discord / automation     |
-| **project three**    | ai / tool                |
-| **project four**     | web app                  |
-| **project five**     | custom build             |
-| **❓ coming soon...** | working on something new |
+| 🚀                   |                           |
+| -------------------- | ------------------------- |
+| **Project One**      | modern web platform       |
+| **Project Two**      | Discord bot / automation  |
+| **Project Three**    | AI tool                   |
+| **Project Four**     | web app / dashboard       |
+| **Project Five**     | custom solution           |
+| **❓ Coming soon...** | something new in progress |
 
 </div>
 
 ---
 
-## ▌ stats
+## ▌ Stats
 
 <div align="center">
 
@@ -93,7 +89,7 @@ kein unnötiger schnickschnack – einfach schnell, sauber und funktional.
 
 ---
 
-## ▌ contact
+## ▌ Contact
 
 <div align="center">
 
@@ -109,7 +105,7 @@ kein unnötiger schnickschnack – einfach schnell, sauber und funktional.
 
 <br/><br/>
 
-<sub style="color:#22C55E;">just building stuff i like</sub>
+<sub style="color:#22C55E;">just building things I enjoy</sub>
 
 </div>
 
