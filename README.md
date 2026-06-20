@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="assets/icons/user.svg" width="18"/> About Me
+## ![Profile](https://img.shields.io/badge/Profile-22C55E?style=for-the-badge&logo=about.me&logoColor=white) About Me
 
 - Full-Stack Developer from Switzerland  
 - Focus on Web Apps, AI & SaaS  
@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="assets/icons/code.svg" width="18"/> What I Do
+## ![Work](https://img.shields.io/badge/Work-16A34A?style=for-the-badge&logo=code&logoColor=white) What I Do
 
 - Web Applications (Frontend + Backend)  
 - API Development & Automation  
@@ -26,7 +26,7 @@
 
 ---
 
-## <img src="assets/icons/stack.svg" width="18"/> Tech Stack
+## ![Stack](https://img.shields.io/badge/Stack-14532D?style=for-the-badge&logo=stackshare&logoColor=white) Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-14532D?style=for-the-badge&logo=java&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-## <img src="assets/icons/chart.svg" width="18"/> GitHub Stats
+## ![Stats](https://img.shields.io/badge/Stats-22C55E?style=for-the-badge&logo=github&logoColor=white) GitHub Stats
 
 <div align="center">
 
@@ -48,7 +48,17 @@
 
 ---
 
-## <img src="assets/icons/plant.svg" width="18"/> Decoration
+## ![Activity](https://img.shields.io/badge/Activity-16A34A?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+<div align="center">
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DEINNAME&theme=github-compact&color=22C55E&hide_border=true)
+
+</div>
+
+---
+
+## ![Decoration](https://img.shields.io/badge/Decoration-14532D?style=for-the-badge&logo=leaflet&logoColor=white)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/plant.gif" width="120"/>
@@ -56,7 +66,7 @@
 
 ---
 
-## <img src="assets/icons/mail.svg" width="18"/> Contact
+## ![Contact](https://img.shields.io/badge/Contact-22C55E?style=for-the-badge&logo=gmail&logoColor=white)
 
 - Website: https://marlon-studios.com  
 - Email: management@marlon-studios.com  
