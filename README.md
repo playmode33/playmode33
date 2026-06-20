@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;AI+Systems+Builder;SaaS+Architect;Shipping+Real+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Web+%2F+Discord+%2F+App+Developer;AI+%26+SaaS+Builder;Based+in+Switzerland" />
 
 <br/><br/>
 
@@ -22,20 +22,32 @@
 
 ---
 
-## ▌ About
+## ▌ About Me
 
 <div align="center">
 
-Full-stack developer focused on building **real SaaS products** and **AI-powered systems**.
-Clean architecture, high performance and strong UX are always the priority.
+**EN**
+Full-stack developer from Switzerland 🇨🇭 building modern **web applications**, **Discord systems**, and **apps**.
+Focused on real products, clean UI and scalable architecture.
+
+**DE**
+Full-Stack Entwickler aus der Schweiz 🇨🇭 mit Fokus auf **Webseiten**, **Discord Bots/Systeme** und **Apps**.
+Ich entwickle moderne, performante und produktionsreife Lösungen.
 
 </div>
 
 ---
 
-## ▌ Tech Stack
+## ▌ Skills
 
 <div align="center">
+
+**Web Development** · Frontend & Backend · Modern UI
+**Discord Development** · Bots · Automation · APIs
+**App Development** · Tools · Systems · Cross-platform
+**AI & SaaS** · LLM Apps · Automation · Platforms
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,postgres,docker&theme=dark" />
 
@@ -47,23 +59,24 @@ Clean architecture, high performance and strong UX are always the priority.
 
 <div align="center">
 
-**SaaS Platforms** · Multi-tenant apps, dashboards, billing
-**AI Systems** · LLM apps, RAG pipelines, automation
-**APIs** · Scalable backend services
-**Frontend** · Fast, responsive interfaces
-**Automation** · Workflows & integrations
+SaaS Platforms · AI Tools · APIs · Frontends · Automations
 
 </div>
 
 ---
 
-## ▌ Specialties
+## ▌ Projects
 
 <div align="center">
 
-**AI Integration** · LLM APIs · RAG · Prompt Engineering
-**SaaS Architecture** · Auth · Subscriptions · Admin systems
-**Performance** · Fast UI · Core Web Vitals · Clean UX
+| Project              | Description                     |
+| -------------------- | ------------------------------- |
+| 🟢 **Project One**   | Modern SaaS / Web Platform      |
+| 🟢 **Project Two**   | Discord Bot / Automation System |
+| 🟢 **Project Three** | AI Tool / Smart Application     |
+| 🟢 **Project Four**  | Web App / Dashboard             |
+| 🟢 **Project Five**  | Custom Software Solution        |
+| ❓ **Coming Soon...** | New project in development      |
 
 </div>
 
@@ -107,7 +120,7 @@ Clean architecture, high performance and strong UX are always the priority.
 
 <br/><br/>
 
-<sub style="color:#22C55E;">built in the dark · designed to ship</sub>
+<sub style="color:#22C55E;">built in switzerland · designed to ship</sub>
 
 </div>
 
