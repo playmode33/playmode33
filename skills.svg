@@ -1,0 +1,32 @@
+<svg width="450" height="140" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .text { fill: white; font-family: Arial; font-size: 14px; }
+
+    .bar {
+      fill: #58a6ff;
+      animation: load 1.5s ease forwards;
+      transform-origin: left;
+    }
+
+    @keyframes load {
+      from { transform: scaleX(0); }
+      to { transform: scaleX(1); }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="450" height="140" rx="12"/>
+
+  <!-- HTML -->
+  <text class="text" x="20" y="35">HTML</text>
+  <rect class="bar" x="120" y="22" width="250" height="12" />
+
+  <!-- CSS -->
+  <text class="text" x="20" y="70">CSS</text>
+  <rect class="bar" x="120" y="57" width="200" height="12" />
+
+  <!-- LUA -->
+  <text class="text" x="20" y="105">Lua</text>
+  <rect class="bar" x="120" y="92" width="280" height="12" />
+</svg>
