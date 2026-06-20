@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,020617,052e16,14532d,166534&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,020617,022c22,064e3b,14532d,166534&height=180&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -28,11 +28,10 @@ Web Developer · App Developer · Discord Developer
 
 Hey, I'm Marlon 👋
 
-I build **web applications, Discord systems, and small apps** that are designed to be used in real situations — not just prototypes.
-My focus is on creating things that feel **fast, simple, and intuitive**.
+I build **web apps, Discord systems, and small applications** that are actually used.
+My focus is on **clean design, performance, and simplicity**.
 
-I enjoy turning ideas into working products and improving them step by step.
-Most of my work revolves around usability, performance, and clean design.
+I like turning ideas into real products and improving them over time.
 
 Based in Switzerland 🇨🇭
 
@@ -45,16 +44,16 @@ Based in Switzerland 🇨🇭
 <div align="center">
 
 **Web Development**
-Modern websites, dashboards, and user interfaces with a focus on speed and clarity
+Modern websites, dashboards, and user interfaces
 
 **App Development**
-Small applications, tools, and product ideas built to solve specific problems
+Tools, utilities, and product ideas
 
 **Discord Development**
-Bots, automation systems, and integrations for communities and workflows
+Bots, automation, and integrations
 
 **Backend Development**
-APIs, databases, and logic that keep everything running smoothly
+APIs, databases, and system logic
 
 </div>
 
@@ -64,10 +63,10 @@ APIs, databases, and logic that keep everything running smoothly
 
 <div align="center">
 
-• I build things to **ship and improve**, not just to showcase
-• I prefer **simple solutions that scale** over complex ones
-• I focus on **real usability and clean structure**
-• I iterate quickly and refine over time
+• Build → ship → improve
+• Keep things simple and maintainable
+• Focus on real use cases
+• Iterate fast
 
 </div>
 
@@ -81,7 +80,7 @@ APIs, databases, and logic that keep everything running smoothly
 
 <br/><br/>
 
-I mainly work with modern JavaScript/TypeScript stacks, backend systems, and tools that allow me to move fast while keeping code maintainable.
+Modern JavaScript/TypeScript stacks combined with backend systems and automation tools.
 
 </div>
 
@@ -101,7 +100,7 @@ I mainly work with modern JavaScript/TypeScript stacks, backend systems, and too
 
 <br/>
 
-<sub style="color:#22C55E;">currently building new projects behind the scenes</sub>
+<sub style="color:#22C55E;">currently building new things behind the scenes</sub>
 
 </div>
 
@@ -138,4 +137,4 @@ Website: marlon-studios.com
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=166534,14532d,052e16,020617&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=166534,14532d,064e3b,022c22,020617&height=160&section=footer"/>
