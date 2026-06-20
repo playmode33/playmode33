@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,020617,16a34a,22C55E&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,020617,052e16,14532d,166534&height=180&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -15,7 +15,7 @@ Web Developer · App Developer · Discord Developer
 <br/><br/>
 
 <a href="https://marlon-studios.com">
-  <img src="https://img.shields.io/badge/Visit%20Website-22C55E?style=for-the-badge&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Visit%20Website-166534?style=for-the-badge&logoColor=ffffff"/>
 </a>
 
 </div>
@@ -28,8 +28,11 @@ Web Developer · App Developer · Discord Developer
 
 Hey, I'm Marlon 👋
 
-I build **web apps, Discord systems, and small applications** that are actually used.
-I like keeping things simple, fast, and clean — no unnecessary complexity.
+I build **web applications, Discord systems, and small apps** that are designed to be used in real situations — not just prototypes.
+My focus is on creating things that feel **fast, simple, and intuitive**.
+
+I enjoy turning ideas into working products and improving them step by step.
+Most of my work revolves around usability, performance, and clean design.
 
 Based in Switzerland 🇨🇭
 
@@ -41,10 +44,30 @@ Based in Switzerland 🇨🇭
 
 <div align="center">
 
-Web → interfaces, dashboards, websites
-Apps → tools, utilities, small products
-Discord → bots, automation, integrations
-Backend → APIs, databases, logic
+**Web Development**
+Modern websites, dashboards, and user interfaces with a focus on speed and clarity
+
+**App Development**
+Small applications, tools, and product ideas built to solve specific problems
+
+**Discord Development**
+Bots, automation systems, and integrations for communities and workflows
+
+**Backend Development**
+APIs, databases, and logic that keep everything running smoothly
+
+</div>
+
+---
+
+## ▌ How I Work
+
+<div align="center">
+
+• I build things to **ship and improve**, not just to showcase
+• I prefer **simple solutions that scale** over complex ones
+• I focus on **real usability and clean structure**
+• I iterate quickly and refine over time
 
 </div>
 
@@ -55,6 +78,10 @@ Backend → APIs, databases, logic
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,postgres,docker&theme=dark" />
+
+<br/><br/>
+
+I mainly work with modern JavaScript/TypeScript stacks, backend systems, and tools that allow me to move fast while keeping code maintainable.
 
 </div>
 
@@ -74,7 +101,7 @@ Backend → APIs, databases, logic
 
 <br/>
 
-<sub style="color:#22C55E;">currently building things behind the scenes</sub>
+<sub style="color:#22C55E;">currently building new projects behind the scenes</sub>
 
 </div>
 
@@ -84,13 +111,13 @@ Backend → APIs, databases, logic
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=playmode33&show_icons=true&hide_border=true&bg_color=000000&title_color=22C55E&icon_color=22C55E&text_color=9ca3af"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=playmode33&show_icons=true&hide_border=true&bg_color=020617&title_color=22C55E&icon_color=22C55E&text_color=9ca3af"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playmode33&layout=compact&hide_border=true&bg_color=000000&title_color=22C55E&text_color=9ca3af"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playmode33&layout=compact&hide_border=true&bg_color=020617&title_color=22C55E&text_color=9ca3af"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=playmode33&hide_border=true&background=000000&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=6b7280&dates=374151"/>
+<img src="https://streak-stats.demolab.com?user=playmode33&hide_border=true&background=020617&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=6b7280&dates=374151"/>
 
 </div>
 
@@ -103,8 +130,12 @@ Backend → APIs, databases, logic
 Email: [management@marlon-studios.com](mailto:management@marlon-studios.com)
 Website: marlon-studios.com
 
+<br/>
+
+<sub style="color:#22C55E;">open for projects and collaborations</sub>
+
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E,16a34a,000000&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=166534,14532d,052e16,020617&height=140&section=footer"/>
