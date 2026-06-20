@@ -22,4 +22,4 @@
 ---
 
 ## 📫 Contact
-Discord: @deinname
+Discord: management@marlon-studios.com
