@@ -1,17 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,02140d,052e16,14532d&height=200&section=header&text=Marlon&fontSize=72&fontColor=86efac&fontAlignY=38&desc=Web%20Developer%20·%20App%20Developer%20·%20Discord%20Developer&descAlignY=58&descSize=16&descColor=4ade80&animation=fadeIn" width="100%"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,011a0e,052e16,0d5c2e,14532d,1a6b38&height=280&section=header&text=Marlon&fontSize=90&fontColor=86efac&fontAlignY=45&desc=Web%20·%20App%20·%20Discord%20Developer&descAlignY=65&descSize=18&descColor=4ade80&animation=fadeIn&stroke=14532d&strokeWidth=2" width="100%"/>
 
 </div>
 
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=4ADE80&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey+%E2%80%94+I'm+Marlon+%F0%9F%91%8B;Building+things+for+the+web+since+ever;Discord+bots+that+actually+work;Tools+you+didn't+know+you+needed;Based+in+Switzerland+%F0%9F%87%A8%F0%9F%87%AD" alt="Typing SVG" /></a>
+</div>
+
+<br/>
+
+<!-- QUICK BADGES -->
 <div align="center">
   <a href="https://www.marlon-studios.com/" target="_blank">
-    <img src="https://img.shields.io/badge/marlon--studios.com-%2314532d?style=for-the-badge&logo=safari&logoColor=86efac&labelColor=052e16" alt="Website"/>
+    <img src="https://img.shields.io/badge/🌐%20marlon--studios.com-000000?style=for-the-badge&logoColor=4ade80&labelColor=052e16&color=02140d" alt="Website"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Switzerland-🇨🇭-%2314532d?style=for-the-badge&labelColor=052e16&color=14532d" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍%20Switzerland-000000?style=for-the-badge&labelColor=052e16&color=02140d" alt="Switzerland"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=playmode33&style=for-the-badge&color=14532d&labelColor=052e16&label=VISITORS" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/💼%20Open%20to%20Work-000000?style=for-the-badge&labelColor=14532d&color=052e16" alt="Open to Work"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=playmode33&style=for-the-badge&color=052e16&labelColor=02140d&label=👁%20VISITORS" alt="Visitors"/>
+</div>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+<br/>
+
+<!-- ABOUT ME -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0,02140d,052e16&height=2&section=header" width="60%"/>
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    &nbsp;whoami
+  </h2>
+</div>
+
+```js
+const marlon = {
+  location  : "🇨🇭 Switzerland",
+  role      : ["Web Developer", "App Developer", "Discord Developer"],
+  studio    : "Marlon Studios",
+  website   : "https://www.marlon-studios.com/",
+  building  : ["Web apps", "Discord bots", "Tools & small applications"],
+  hoursPerWeek : "20–30h",
+  contact   : "management@marlon-studios.com",
+  status    : "Always building something."
+};
+```
+
+<div align="center">
+
+> *Hey — I'm Marlon. I build things for the web, wrap them into apps, and make Discord bots that actually do something useful. I work independently under Marlon Studios — based in Switzerland, shipping code quietly.*
+
 </div>
 
 <br/>
@@ -20,36 +74,37 @@
 
 <br/>
 
-## `whoami`
+<!-- WHAT I DO -->
+<div align="center">
+  <h2>⚡ What I Do</h2>
+</div>
 
-Hey — I'm Marlon, a developer based in Switzerland. I build things for the web, wrap them into apps, and sometimes make Discord bots that actually do something useful. I care about clean interfaces, sensible code, and projects that solve a real problem rather than just exist.
-
-Most of my time goes into full-stack web projects and small tools I wish someone else had already built. I work independently under [**Marlon Studios**](https://www.marlon-studios.com/), which is less of a studio and more of a one-person operation with a good name.
-
-<br/>
-
----
-
-<br/>
-
-## What I Build
-
+<div align="center">
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>🌐 Web Development</h3>
-      <p>Full-stack web apps — from landing pages to proper multi-page applications. Clean frontend, solid backend.</p>
+    <td align="center" width="200px">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/>
+      <strong>Web Development</strong><br/>
+      <sub>Full-stack apps, clean UIs,<br/>solid backends. End to end.</sub>
     </td>
-    <td width="33%" align="center">
-      <h3>📱 App Development</h3>
-      <p>Small to mid-sized applications that run well and feel intentional. Not everything needs to be an enterprise product.</p>
+    <td align="center" width="200px">
+      <img src="https://skillicons.dev/icons?i=electron&theme=dark" width="48"/><br/>
+      <strong>App Development</strong><br/>
+      <sub>Desktop & mobile apps<br/>that feel intentional.</sub>
     </td>
-    <td width="33%" align="center">
-      <h3>🤖 Discord Bots</h3>
-      <p>Bots with actual features — moderation, utilities, automation. Built for real servers, not just portfolio demos.</p>
+    <td align="center" width="200px">
+      <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48"/><br/>
+      <strong>Discord Bots</strong><br/>
+      <sub>Moderation, utilities,<br/>automation. Built to last.</sub>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48"/><br/>
+      <strong>Tools & Scripts</strong><br/>
+      <sub>Small things that solve<br/>real problems quietly.</sub>
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
 
@@ -57,31 +112,40 @@ Most of my time goes into full-stack web projects and small tools I wish someone
 
 <br/>
 
-## Tech Stack
+<!-- TECH STACK -->
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+</div>
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
-
+<details open>
+<summary><b>🌐 Frontend</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark&perline=8" />
 <br/><br/>
+</details>
 
-**Backend & Runtime**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,bun&theme=dark" />
-
+<details open>
+<summary><b>⚙️ Backend & Runtime</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,bun,fastapi&theme=dark&perline=8" />
 <br/><br/>
+</details>
 
-**Databases & Infra**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,nginx&theme=dark" />
-
+<details open>
+<summary><b>🗄️ Databases & Infrastructure</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,nginx&theme=dark&perline=8" />
 <br/><br/>
+</details>
 
-**Tools & Environment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" />
+<details open>
+<summary><b>🔧 Tools & Environment</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,vercel&theme=dark&perline=8" />
+<br/><br/>
+</details>
 
 </div>
 
@@ -91,21 +155,50 @@ Most of my time goes into full-stack web projects and small tools I wish someone
 
 <br/>
 
-## Weekly Coding
+<!-- GITHUB STATS -->
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
 
 <div align="center">
 
-> Usually putting in around **20–30 hours per week** across web projects, tools, and occasional Discord bot work.
+<img src="https://github-readme-stats.vercel.app/api?username=playmode33&show_icons=true&theme=merko&bg_color=0d1117&border_color=14532d&icon_color=4ade80&title_color=86efac&text_color=bbf7d0&ring_color=166534&hide_border=false&rank_icon=github&count_private=true&include_all_commits=true" height="180"/>
 
-<!--START_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=playmode33&layout=compact&theme=merko&bg_color=0d1117&border_color=14532d&title_color=86efac&text_color=bbf7d0&hide_border=false&langs_count=8" height="180"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=playmode33&theme=merko&background=0d1117&border=14532d&ring=166534&fire=4ade80&currStreakLabel=86efac&sideLabels=86efac&currStreakNum=bbf7d0&sideNums=bbf7d0&dates=4ade80&stroke=14532d" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=playmode33&theme=merko&bg_color=0d1117&color=4ade80&line=14532d&point=86efac&area=true&area_color=052e16&hide_border=false&border_color=14532d&custom_title=Contribution%20Graph" width="95%"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- WEEKLY CODING -->
+<div align="center">
+  <h2>⏱️ Weekly Coding</h2>
+
+  <img src="https://img.shields.io/badge/20–30h%20per%20week-active-052e16?style=for-the-badge&logo=clockify&logoColor=4ade80&labelColor=02140d&color=14532d" />
+
+  <br/><br/>
+
 ```text
-TypeScript   ██████████░░░░░░░░░░░   ~40%
-JavaScript   ██████░░░░░░░░░░░░░░░   ~25%
-CSS / HTML   ████░░░░░░░░░░░░░░░░░   ~15%
-Python       ███░░░░░░░░░░░░░░░░░░   ~12%
-Other        ██░░░░░░░░░░░░░░░░░░░   ~8%
+TypeScript   ████████████░░░░░░░░░   ~40%  🟢
+JavaScript   ████████░░░░░░░░░░░░░   ~25%  🟢
+CSS / HTML   █████░░░░░░░░░░░░░░░░   ~16%  🟢
+Python       ████░░░░░░░░░░░░░░░░░   ~12%  🟢
+Other        ██░░░░░░░░░░░░░░░░░░░   ~7%   🔵
 ```
-<!--END_SECTION:waka-->
 
 </div>
 
@@ -115,76 +208,30 @@ Other        ██░░░░░░░░░░░░░░░░░░░   ~
 
 <br/>
 
-## Projects
-
+<!-- PROJECTS -->
 <div align="center">
-  <sub>CURRENTLY IN THE WORKS</sub>
+  <h2>🚀 Projects</h2>
+  <sub>Currently in development — stay tuned.</sub>
 </div>
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔲 Project Alpha</h3>
-      <p><code>❓ Coming soon...</code></p>
-      <p><sub>Something web-based. Details to follow.</sub></p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-In%20Development-%23052e16?style=flat-square&labelColor=02140d&color=14532d"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔲 Project Beta</h3>
-      <p><code>❓ Coming soon...</code></p>
-      <p><sub>A tool. The kind you actually want to use.</sub></p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-In%20Development-%23052e16?style=flat-square&labelColor=02140d&color=14532d"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔲 Project Gamma</h3>
-      <p><code>❓ Coming soon...</code></p>
-      <p><sub>Discord-related. More when it's ready.</sub></p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-In%20Development-%23052e16?style=flat-square&labelColor=02140d&color=14532d"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔲 Project Delta</h3>
-      <p><code>❓ Coming soon...</code></p>
-      <p><sub>App-side project. Still early.</sub></p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-In%20Development-%23052e16?style=flat-square&labelColor=02140d&color=14532d"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>🔲 Project Epsilon</h3>
-      <p><code>❓ Coming soon...</code></p>
-      <p><sub>This one might be the most interesting. Check back later.</sub></p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-In%20Development-%23052e16?style=flat-square&labelColor=02140d&color=14532d"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=playmode33&show_icons=true&theme=merko&bg_color=02140d&border_color=14532d&icon_color=4ade80&title_color=86efac&text_color=bbf7d0&ring_color=166534&hide_border=false&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=playmode33&layout=compact&theme=merko&bg_color=02140d&border_color=14532d&title_color=86efac&text_color=bbf7d0&hide_border=false" height="170"/>
+| # | Project | Type | Stack | Status |
+|---|---------|------|-------|--------|
+| 01 | **Project Alpha** | Web App | `Next.js` `TypeScript` `MongoDB` | `❓ Coming soon...` |
+| 02 | **Project Beta** | Discord Bot | `Node.js` `Discord.js` `Redis` | `❓ Coming soon...` |
+| 03 | **Project Gamma** | Tool / CLI | `Python` `Bash` | `❓ Coming soon...` |
+| 04 | **Project Delta** | App | `Electron` `React` `SQLite` | `❓ Coming soon...` |
+| 05 | **Project Epsilon** | Web App | `Next.js` `Tailwind` `Postgres` | `❓ Coming soon...` |
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=playmode33&theme=merko&background=02140d&border=14532d&ring=166534&fire=4ade80&currStreakLabel=86efac&sideLabels=86efac&currStreakNum=bbf7d0&sideNums=bbf7d0&dates=4ade80" height="170"/>
+<br/>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/All%20projects%20are%20in%20active%20development-052e16?style=flat-square&labelColor=02140d&color=14532d"/>
 </div>
 
 <br/>
@@ -193,24 +240,52 @@ Other        ██░░░░░░░░░░░░░░░░░░░   ~
 
 <br/>
 
-## Get in Touch
-
+<!-- TROPHIES -->
 <div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=playmode33&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="95%"/>
+</div>
 
-<sub>Have a project in mind, a question, or just want to say hi — feel free.</sub>
+<br/>
 
-<br/><br/>
+---
 
-<a href="mailto:management@marlon-studios.com">
-  <img src="https://img.shields.io/badge/management@marlon--studios.com-052e16?style=for-the-badge&logo=gmail&logoColor=86efac&labelColor=02140d" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.marlon-studios.com/" target="_blank">
-  <img src="https://img.shields.io/badge/marlon--studios.com-14532d?style=for-the-badge&logo=safari&logoColor=86efac&labelColor=052e16" alt="Website"/>
-</a>
+<br/>
+
+<!-- CONTACT -->
+<div align="center">
+  <h2>📬 Get in Touch</h2>
+  <sub>Have a project, a question, or just want to say hi — feel free to reach out.</sub>
+  <br/><br/>
+
+  <a href="mailto:management@marlon-studios.com">
+    <img src="https://img.shields.io/badge/management@marlon--studios.com-052e16?style=for-the-badge&logo=gmail&logoColor=4ade80&labelColor=02140d&color=052e16" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.marlon-studios.com/" target="_blank">
+    <img src="https://img.shields.io/badge/marlon--studios.com-052e16?style=for-the-badge&logo=safari&logoColor=4ade80&labelColor=02140d&color=052e16" alt="Website"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Response%20time-within%2024h-14532d?style=flat-square&labelColor=02140d" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Best%20reached%20via-Email-14532d?style=flat-square&labelColor=02140d" />
 
 </div>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,14532d,052e16,02140d&height=120&section=footer&reversal=false" width="100%"/>
+<!-- FOOTER QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true&quote=Ship%20it.%20Improve%20it.%20Repeat.&author=playmode33" width="70%"/>
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,14532d,052e16,011a0e&height=140&section=footer&text=See%20you%20around&fontSize=22&fontColor=4ade80&fontAlignY=65&animation=twinkling" width="100%"/>
+
+<div align="center">
+  <sub>Made with 💚 in Switzerland &nbsp;·&nbsp; <a href="https://www.marlon-studios.com/">marlon-studios.com</a></sub>
+</div>
