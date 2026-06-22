@@ -1,11 +1,17 @@
 <div align="center">
 
-# Marlon Studios
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,100:22c55e&height=180&section=header&text=Marlon%20Studios&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 
-### Web, App & Software Developer  
-Modern websites, clean interfaces and creative digital projects.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Web%2C+App+%26+Software+Developer;Modern+UI+%2F+UX+Design;Creative+Digital+Projects;Building+Marlon+Studios" />
 
-[Website](https://www.marlon-studios.com/) • [Contact](mailto:management@marlon-studips.com)
+<br><br>
+
+<a href="https://www.marlon-studios.com/">
+  <img src="https://img.shields.io/badge/Website-Marlon%20Studios-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:management@marlon-studips.com">
+  <img src="https://img.shields.io/badge/Contact-Email-16a34a?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -13,32 +19,8 @@ Modern websites, clean interfaces and creative digital projects.
 
 ## About me
 
-Hey, I’m Marlon.  
-I build modern websites, apps and digital tools with a focus on clean design, smooth user experience and useful features.
-
-I like creating projects around:
-
-- Web development
-- App concepts
-- Roblox / gaming projects
-- AI tools
-- UI & UX design
-- Secure and modern software ideas
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,nodejs,github,vscode" />
-</p>
-
----
-
-## Current Focus
-
 ```txt
-Building modern web apps
-Improving UI/UX design
-Learning more about AI and backend systems
-Working on Marlon Studios projects
+Hey, I’m Marlon.
+
+I build modern websites, apps and creative digital tools.
+My focus is clean design, smooth user experience and useful features.
