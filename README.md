@@ -1,103 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1220,50:14532d,100:22c55e&text=Marlon%20Studios&fontColor=ffffff&fontSize=56&fontAlignY=38&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:14532d,100:22c55e&text=Marlon&fontSize=52&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1500&color=22C55E&center=true&vCenter=true&width=700&lines=Creating+websites%2C+apps+and+ideas;Learning+something+new+every+day;Building+projects+that+people+enjoy" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Building+Modern+Digital+Experiences;Web+Apps+%7C+Software+%7C+Design;Founder+of+Marlon+Studios" />
-
-<br><br>
-
 <a href="https://www.marlon-studios.com">
-    <img src="https://img.shields.io/badge/🌐_Website-Marlon_Studios-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Website-22c55e?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="mailto:management@marlon-studios.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-16a34a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Email-16a34a?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://github.com/playmode33">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=playmode33&style=for-the-badge&color=22c55e" />
 
 </div>
 
 ---
 
-# 👋 About Me
+## Hey 👋
 
-```yaml
-Name: Marlon
-Role: Developer & Designer
-Focus:
-  - Modern Websites
-  - Desktop Applications
-  - UI / UX Design
-  - Creative Software Projects
+I'm Marlon.
 
-Mission:
-  Building useful, beautiful and modern
-  digital experiences through code.
+I enjoy creating websites, apps and digital projects while constantly learning new technologies.
+
+Currently interested in:
+
+- Modern Web Development
+- UI / UX Design
+- Software Development
+- AI & Automation
+- Creative Side Projects
+
+---
+
+## Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## Current Focus
+
+```txt
+→ Building personal projects
+→ Improving my coding skills
+→ Exploring AI tools
+→ Creating clean and modern designs
 ```
 
 ---
 
-# ⚡ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,electron,git,github,vscode" />
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=playmode33&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playmode33&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# 🚀 Current Projects
-
-### 🌿 Marlon Studios
-Modern digital products, websites and software solutions.
-
-### 🔒 LunoVPN
-Privacy-focused VPN platform with a modern user experience.
-
-### ☁️ LunoTransfer
-Simple and secure file conversion tools.
-
-### 🤖 AI Projects
-Building useful AI-powered applications and tools.
-
----
-
-# 📫 Connect
-
-- 🌐 Website: https://www.marlon-studios.com
-- 📧 Email: management@marlon-studios.com
-- 💻 GitHub: @playmode33
-
----
-
-<div align="center">
-
-### "Everything starts with one step."
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b1220,50:14532d,100:22c55e" />
+*"Small steps every day."*
 
 </div>
